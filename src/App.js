@@ -19,6 +19,7 @@ export default class App extends Component{
       <div onClick={this.changeColor} className="App" style={{backgroundColor : this.state.color}}>
         {this.state.color === "black" && <h1 id={this.state.color}>BLACK is M00D</h1>}
         {this.state.color === "white" && <h1 id={this.state.color}>WHITE is PEACE</h1>}
+        {this.state.color === "green" && <h1 id={this.state.color}>GREEN is LIFE</h1>}
       </div>
     )
   }
