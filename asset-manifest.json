@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/just-colors/static/css/main.7ca8fab6.css",
+    "main.js": "/just-colors/static/js/main.83071319.js",
+    "static/js/787.15e9bd0e.chunk.js": "/just-colors/static/js/787.15e9bd0e.chunk.js",
+    "index.html": "/just-colors/index.html",
+    "main.7ca8fab6.css.map": "/just-colors/static/css/main.7ca8fab6.css.map",
+    "main.83071319.js.map": "/just-colors/static/js/main.83071319.js.map",
+    "787.15e9bd0e.chunk.js.map": "/just-colors/static/js/787.15e9bd0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca8fab6.css",
+    "static/js/main.83071319.js"
+  ]
+}
